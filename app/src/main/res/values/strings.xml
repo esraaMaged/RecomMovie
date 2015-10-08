@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RecomMovie</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_sort_p">Sort by: Popularity</string>
+    <string name="action_sort_R">Sort by: High Rating</string>
+    <string name="action_fav">Favourites</string>
+
+    <string name="title_activity_details">MovieDetail</string>
+</resources>
